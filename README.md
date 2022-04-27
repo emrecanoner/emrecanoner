@@ -12,12 +12,9 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="HackerRank | HackerRank" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" height="20" width="20" src="https://icons8.com/icon/hFoVFpm6gl9A/instagram" />][instagram]
+[<img align="left" height="20" width="20" src="https://img.icons8.com/clouds/344/instagram-new--v3.svg" />][instagram]
 [<img align="left" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/microsoftoutlook.svg" />][outlook]
 
-<a target="_blank" href="https://icons8.com/icon/hFoVFpm6gl9A/instagram">Instagram</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://icons8.com/icon/hFoVFpm6gl9A/instagram"></a> icon by <a target="_blank" href="https://icons8.com"></a>
-<br />
 
 [linkedin]: https://www.linkedin.com/in/emrecanoner/
 [instagram]: https://www.instagram.com/emrecanonercom
