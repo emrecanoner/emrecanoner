@@ -1,7 +1,6 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
+## I'm a Student 👨‍🎓
 - 🚀 I have developed projects and worked on -> C#, Python, JavaI have developed projects and worked on
 - ✍ I have information about these languages -> C, HTML, CSS
 - 🔭 I’m currently working for Kodluyoruz Internship Programme 🔥
