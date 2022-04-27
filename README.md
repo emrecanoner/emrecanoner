@@ -11,7 +11,7 @@
 ## 🔗 Connect with me:
 
 [<img align="left" width="40" src="https://img.icons8.com/stickers/344/linkedin-circled.svg" />][linkedin]
-[<img align="left" width="40" src="https://www.svgrepo.com/show/306171/hackerrank.svg" />][hackerrank]
+[<img align="left" width="40" src="https://simpleicons.org/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" width="40" src="https://img.icons8.com/plasticine/344/instagram-new--v2.svg" />][instagram]
 [<img align="left" width="40" src="https://img.icons8.com/doodle/344/ms-outlook.svg" />][outlook]
 
@@ -45,7 +45,6 @@
 [ios]: https://www.apple.com/ios/ios-14/
 [xd]: https://www.adobe.com/products/xd.html
 
-<br />
 <br />
 
 
