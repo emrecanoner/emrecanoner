@@ -2,7 +2,7 @@
 
 ## I'm a Student 👨‍🎓
 - 🚀 I have developed projects and worked on -> C#, Python, JavaI have developed projects and worked on
-- ✍ I have information about these languages -> C, HTML, CSS
+- ✍ I have information about these languages -> C, HTML, CSS, Assembly
 - 🔭 I’m currently working for Kodluyoruz Internship Programme 🔥
 - 🌱 I’m currently learning 😂
 - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning mobile programming 🤖
@@ -12,10 +12,10 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="HackerRank | HackerRank" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="20" width="20" src="https://icons8.com/icon/hFoVFpm6gl9A/instagram" />][instagram]
 [<img align="left" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/microsoftoutlook.svg" />][outlook]
 
-
+<a target="_blank" href="https://icons8.com/icon/hFoVFpm6gl9A/instagram">Instagram</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 <br />
 
 [linkedin]: https://www.linkedin.com/in/emrecanoner/
