@@ -10,19 +10,17 @@
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/microsoftoutlook.svg" />][outlook]
+[<img align="left" alt="linkedin | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HackerRank | HackerRank" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/microsoftoutlook.svg" />][outlook]
 
 
 <br />
 
-
-[instagram]: https://www.instagram.com/emrecanonercom
-[bionluk]: https://bionluk.com/peyksoftware/ekibimle-beraber-mobil-uygulama-gelistirebilirim-332677
 [linkedin]: https://www.linkedin.com/in/emrecanoner/
-[medium]: https://demiribrahimtalha.medium.com/
+[instagram]: https://www.instagram.com/emrecanonercom
+[hackerrank]: hackerrank.com/emrecanoner
 [outlook]: mailto:emrecanoner@outlook.com
 <br />
 <!--
