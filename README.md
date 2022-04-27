@@ -24,20 +24,18 @@
 
 ## 🔧 Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="35px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][vsCode]
-[<img align="left" alt="GitHub" width="35px" src="https://simpleicons.org/icons/github.svg" />][github]
-[<img align="left" alt="Python" width="35px" src="https://simpleicons.org/icons/python.svg" />][python]
-[<img align="left" alt="C#" width="35px" src="https://simpleicons.org/icons/csharp.svg" />][C#]
-[<img align="left" alt="C" width="35px" src="https://simpleicons.org/icons/c.svg" />][C]
-[<img align="left" alt="Java" width="35px" src="https://simpleicons.org/icons/java.svg" />][Java]
-[<img align="left" alt="SQL" width="35px" src="https://simpleicons.org/icons/sqlite.svg" />][SQL]
-[<img align="left" alt="Html" width="35px" src="https://simpleicons.org/icons/html5.svg" />][Html]
-[<img align="left" alt="Css" width="35px" src="https://simpleicons.org/icons/css3.svg" />][Css]
-
-
+<img align="left" alt="Visual Studio Code" width="35px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" alt="GitHub" width="35px" src="https://simpleicons.org/icons/github.svg" />
+<img align="left" alt="Python" width="35px" src="https://simpleicons.org/icons/python.svg" />
+<img align="left" alt="C#" width="35px" src="https://simpleicons.org/icons/csharp.svg" />
+<img align="left" alt="C" width="35px" src="https://simpleicons.org/icons/c.svg" />
+<img align="left" alt="Java" width="35px" src="https://simpleicons.org/icons/java.svg" />
+<img align="left" alt="SQL" width="35px" src="https://simpleicons.org/icons/sqlite.svg" />
+<img align="left" alt="Html" width="35px" src="https://simpleicons.org/icons/html5.svg" />
+<img align="left" alt="Css" width="35px" src="https://simpleicons.org/icons/css3.svg" />
 
 <br />
-
+<br />
 
 ## 🔧 GitHub Analytics:
 
