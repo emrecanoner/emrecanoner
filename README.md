@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I'm a Student of Computer Engineering at Eskişehir Technical University 👨‍🎓
-- 🚀 I have developed projects and worked on -> C#, Python, JavaI have developed projects and worked on
+# - 🚀 I have developed projects and worked on -> C#, Python, JavaI have developed projects and worked on
 - ✍ I have information about these languages -> C, HTML, CSS, Assembly
 - 🔭 I’m currently working for Kodluyoruz Internship Programme 🔥
 - 🌱 I’m currently learning 😂
