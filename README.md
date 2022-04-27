@@ -10,10 +10,10 @@
 
 ### 📩 Connect with me:
 
-[<img align="left" height="40" width="40" src="https://img.icons8.com/stickers/344/linkedin-circled.svg" />][linkedin]
-[<img align="left" height="40" width="40" src="https://img.icons8.com/windows/344/hackerrank.svg" />][hackerrank]
-[<img align="left" height="40" width="40" src="https://img.icons8.com/plasticine/344/instagram-new--v2.svg" />][instagram]
-[<img align="left" height="40" width="40" src="https://img.icons8.com/doodle/344/ms-outlook.svg" />][outlook]
+[<img align="left" width="40" src="https://img.icons8.com/stickers/344/linkedin-circled.svg" />][linkedin]
+[<img align="left" width="40" src="https://img.icons8.com/windows/344/hackerrank.svg" />][hackerrank]
+[<img align="left" width="40" src="https://img.icons8.com/plasticine/344/instagram-new--v2.svg" />][instagram]
+[<img align="left" width="40" src="https://img.icons8.com/doodle/344/ms-outlook.svg" />][outlook]
 
 
 [linkedin]: https://www.linkedin.com/in/emrecanoner/
