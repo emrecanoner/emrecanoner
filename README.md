@@ -42,8 +42,9 @@
 
 <br />
 <br />
+<br />
 
-## 🔧 GitHub Analytics:
+## ⚙️ GitHub Analytics:
 
 ![Emre Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrecanoner&theme=default&show_icons=true)
 <br />
