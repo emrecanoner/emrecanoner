@@ -49,7 +49,7 @@
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrecanoner&theme=default&show_icons=true)
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrecanoner&" alt="emrecanoner" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrecanoner&" alt="emrecanoner" />
 
 
 <!--
