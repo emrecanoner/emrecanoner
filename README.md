@@ -5,7 +5,7 @@
 - ✍ I have information about these languages -> C, HTML, CSS, Assembly
 - 🔭 I’m currently working for Kodluyoruz Internship Programme 🔥
 - 🌱 I’m currently learning ✨
-- 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning mobile programming 🤖
+- 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning mobile programming -> Flutter, Dart 🤖
 - ⚡ Fun fact: I love to read 📘, play computer games 🕹️, go walk 🚶 and cycling 🚴‍♀️
 
 ## 🔗 Connect with me:
