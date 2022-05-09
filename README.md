@@ -15,11 +15,13 @@
 
 [<img align="left" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>][linkedin]
 [<img align="left" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>][instagram]
+[<img align="left" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
 [<img align="left" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />][hackerrank]
 
 [linkedin]: https://www.linkedin.com/in/emrecanoner/
 [instagram]: https://www.instagram.com/emrecanonercom
 [hackerrank]: https://www.hackerrank.com/emrecanoner
+[youtube]: https://www.youtube.com/channel/UC56e7TnwVxtu_rvNFk8U2OQ
 <br />
 <br />
 
@@ -46,6 +48,9 @@
 ![Emre Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrecanoner&theme=default&show_icons=true)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrecanoner&theme=default&show_icons=true)
+<br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrecanoner&" alt="emrecanoner" /></p>
+
 
 <!--
 **emrecanoner/emrecanoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
