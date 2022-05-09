@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://visitor-badge.laobi.icu/badge?page_id=emrecanoner.EmreCanÖner)
+[![Github](https://img.shields.io/github/followers/emrecanoner?label=Follow&style=social)](https://github.com/emrecanoner)
 ### I'm a Student of Computer Engineering at Eskişehir Technical University 👨‍🎓
 - 🚀 I have developed projects and worked on -> C#, Python, Java
 - ✍ I have information about these languages -> C, HTML, CSS, Assembly
