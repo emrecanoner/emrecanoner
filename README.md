@@ -3,11 +3,10 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=emrecanoner.EmreCanÖner)
 [![Github](https://img.shields.io/github/followers/emrecanoner?label=Follow&style=social)](https://github.com/emrecanoner)
 ### I'm a Student of Computer Engineering at Eskişehir Technical University 👨‍🎓
-- 🚀 I have developed projects and worked on -> C#, Python, Java
+- 🚀 I have developed projects and worked on -> C#, Python, Java, Dart, Flutter
 - ✍ I have information about these languages -> C, HTML, CSS, Assembly
-- 🔭 I’m currently working for Kodluyoruz Internship Programme 🔥
 - 🌱 I’m currently learning ✨
-- 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning mobile programming -> Flutter, Dart 🤖
+- 🥅 2022 Goals: Learning mobile programming -> Flutter, Dart 🤖
 - ⚡ Fun fact: I love to read 📘, play computer games 🕹️, go walk 🚶 and cycling 🚴‍♀️
 - 📫 How to reach me **emrecanoner@outlook.com**
 
