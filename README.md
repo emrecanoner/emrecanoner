@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/emrecanoner?label=Follow&style=social)](https://github.com/emrecanoner)
 ### I'm a Software Developer at HelioCampus 👨‍🎓
 - 🚀 I have developed projects and worked on -> C#, Python, Java, Dart, Flutter
-- ✍ I have information about these languages -> C, HTML, CSS, Assembly
+- ✍ I have information about these languages -> C, HTML, CSS, Assembly, ColdFusion Markup Language (CFML)
 - 🌱 I’m currently learning ✨
 - 🥅 2024 Goals: Developing comprehensive tool(s)
 - ⚡ Fun fact: I love to read 📘, play computer games 🕹️, go walk 🚶 and cycling 🚴‍♀️
@@ -13,8 +13,6 @@
 ## 🔗 Connect with me:
 
 [<img align="left" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>][linkedin]
-[<img align="left" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>][instagram]
-[<img align="left" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
 [<img align="left" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />][hackerrank]
 
 [linkedin]: https://www.linkedin.com/in/emrecanoner/
